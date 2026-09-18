@@ -1,5 +1,5 @@
 #   About Me:
-I’m currently working on AI & DL Based Smart Load Prediction & Fault Detection<br><br>I’m looking to collaborate on Data Analysis & Machine Learning Projects<br><br>I’m looking for help with Deep Learning & Real-Time Predictive Systems<br><br>I’m currently learning Machine Learning, Deep Learning, XGBoost & Power BI<br><br>Ask me about Python, Data Analysis, EDA, Machine Learning, Pandas & NumPy<br><br>Fun fact: I love turning raw data into meaningful insights and visual stories
+I’m looking to collaborate on Data Analysis & Machine Learning Projects<br><br>I’m currently learning Machine Learning, Deep Learning, XGBoost & Power BI<br><br>Ask me about Python, Data Analysis, EDA, Machine Learning, Pandas & NumPy<br><br>Fun fact: I love turning raw data into meaningful insights and visual stories
 
 
 ##   Socials:
